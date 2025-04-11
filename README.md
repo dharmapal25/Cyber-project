@@ -56,9 +56,7 @@ Option to reveal entered password
 Click Generate Strong Passwords to auto-create 5 secure passwords.
 
 📸 Example Output
-makefile
-Copy
-Edit
+
 Entered: myPass123!
 Strength: Medium 🙂
 Missing: One special character
